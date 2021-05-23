@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git 'https://hub.docker.com/repository/docker/k2rakesh/classproject'
+        git 'https://github.com/k2rakesh/Docker-Jenkins-Demo'
 
       }
 
